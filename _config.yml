@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Maarouf Hatab
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: Personal Profile.
+show_downloads: false
+google_analytics: false
 theme: jekyll-theme-minimal
