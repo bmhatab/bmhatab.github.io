@@ -2,122 +2,45 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Professional Summary
 
-[Link to another page](./another-page.html).
+I am a quick learner with hands-on experience in using machine learning models, data analysis with Python, Microsoft Power BI, and Excel.
 
-There should be whitespace between paragraphs.
+## Project Portfolio
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Calendar Year Report Reconciliation
+- Reconciled and replicated results from an Excel template for the Calendar Year Report.
+- Key areas: inforce statistics, cashflows, reserves, investment income, profit on cashflow and reserves, balance sheet items, and total assets.
 
-# Header 1
+### Value-at-Risk Risk Management Framework
+- Created a value-at-risk risk management framework for a medium-sized bank with an Institutional Equity trading operation.
+- Demonstrated skills in risk management, market risk, credit risk, VaR, stress-tests, and backtesting.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Insurance Risk Management Project
+Analyzed real-life risk mismanagement cases in the cryptocurrency industry, identifying root causes using the enterprise risk management (ERM) framework. Developed and implemented risk mitigation strategies for market volatility, cybersecurity, and regulatory compliance.
 
-## Header 2
+### Business Analysis Automation
+Streamlined and automated a business analysis catalogue of tools used to assess the entirety of a client’s business. Generated comprehensive report presentations on gaps in client’s business operations and recommendations to cover those gaps.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Dynamic Visualization Dashboards
+Designed and developed dynamic visualization dashboards using Power BI to generate sales and performance reports. Automated file retrieval processes from servers using Python, significantly reducing manual workload.
 
-### Header 3
+### Blockchain Explorer Freelance Project
+Utilized web scraping techniques to extract Ethereum contract addresses from GitHub. Mapped contract addresses to their respective domain or subdomain, submitting data in JSON format.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Skills and Interests
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+- **Technical Skills:** AXIS, SQL, Power BI, Excel, Python
+- **Financial Bases:** Applied Probability, Data Science for Risk Modelling, Insurance Risk Management, Data Analytics
+- **Risk Management:** Market risk, credit risk, VaR, stress-testing, backtesting
+- **Technical Skills:** , Power BI, Excel, Flask Framework
+- **Interests:** Blockchain, FinTech, Financial Modeling, Data Analysis, Strategic Planning
 
 
-### Definition lists can be used with HTML syntax.
+## Connect with Me
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+[LinkedIn](https://www.linkedin.com/in/maarouf-hatab)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+---
 
-```
-The final element.
-```
+For more details, you can explore other pages of this website.
