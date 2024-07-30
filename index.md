@@ -17,23 +17,27 @@ I am a quick learner with hands-on experience in using machine learning models, 
 - Demonstrated skills in risk management, market risk, credit risk, VaR, stress-tests, and backtesting.
 
 ### Insurance Risk Management Project
-Analyzed real-life risk mismanagement cases in the cryptocurrency industry, identifying root causes using the enterprise risk management (ERM) framework. Developed and implemented risk mitigation strategies for market volatility, cybersecurity, and regulatory compliance.
+- Analyzed real-life risk mismanagement cases in the cryptocurrency industry, identifying root causes using the enterprise risk management (ERM) framework. 
+- Developed and implemented risk mitigation strategies for market volatility, cybersecurity, and regulatory compliance.
 
 ### Business Analysis Automation
-Streamlined and automated a business analysis catalogue of tools used to assess the entirety of a client’s business. Generated comprehensive report presentations on gaps in client’s business operations and recommendations to cover those gaps.
+- Streamlined and automated a business analysis catalogue of tools used to assess the entirety of a client’s business.
+- Generated comprehensive report presentations on gaps in client’s business operations and recommendations to cover those gaps.
 
 ### Dynamic Visualization Dashboards
-Designed and developed dynamic visualization dashboards using Power BI to generate sales and performance reports. Automated file retrieval processes from servers using Python, significantly reducing manual workload.
+- Designed and developed dynamic visualization dashboards using Power BI to generate sales and performance reports.
+- Automated file retrieval processes from servers using Python, significantly reducing manual workload.
 
 ### Blockchain Explorer Freelance Project
-Utilized web scraping techniques to extract Ethereum contract addresses from GitHub. Mapped contract addresses to their respective domain or subdomain, submitting data in JSON format.
+- Utilized web scraping techniques to extract Ethereum contract addresses from GitHub.
+- Mapped contract addresses to their respective domain or subdomain, submitting data in JSON format.
 
 ## Skills and Interests
 
 - **Technical Skills:** AXIS, SQL, Power BI, Excel, Python
 - **Financial Bases:** Applied Probability, Data Science for Risk Modelling, Insurance Risk Management, Data Analytics
 - **Risk Management:** Market risk, credit risk, VaR, stress-testing, backtesting
-- **Technical Skills:** , Power BI, Excel, Flask Framework
+- **Technical Skills:** Power BI, Excel, Flask Framework
 - **Interests:** Blockchain, FinTech, Financial Modeling, Data Analysis, Strategic Planning
 
 
