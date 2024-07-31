@@ -3,18 +3,18 @@ layout: default
 ---
 
 ## Professional Summary
-
+* * * 
 I am a meticulous and energetic individual with a keen observational sense and a proven ability to learn quickly. With a background in actuarial science and a Master’s in Financial Insurance from the University of Toronto, I bring hands-on experience in using neural networks and machine learning models for risk and financial modeling. My skills encompass data analysis with Python, database modeling, and data visualization using Microsoft Power BI. I have developed and deployed models on Microsoft Azure, and I possess experience in web development, API integration for applications, and automation using the Python Flask Framework and various automation packages. Furthermore, I have exceptional communication and presentation skills, enabling me to effectively convey technical information as actionable business intelligence.
 
 ## Portfolio Summary
-
+* * *
 ### Automated Business Analysis Toolkit
 This project focuses on streamlining and automating a business analysis catalogue of tools used to evaluate the entirety of a client’s business. The process includes generating comprehensive report presentations that identify gaps in the client's business operations and provide recommendations to address these gaps. Key components of the project involve the design of a survey, database modeling in Power BI, the integration of a Natural Language Processing (NLP) AI to generate business reports, and the use of Microsoft Azure for model deployment.
 
 #### Applied Skills
 - Survey Design, Database Modeling, Business Intelligence, Business Report Writing, Natural Language Processing (NLP), Power BI, Automation, Microsoft Azure, Python Programming, AI and Machine Learning
 
-### Dynamic Visualization and Automation for Sales and Performance Reporting
+### Automation for Sales and Performance Reporting
 This project entailed the design and development of a dynamic visualization dashboard using Power BI to generate comprehensive sales and performance reports. Additionally, the project included automating file retrieval processes from servers by developing a bot utilizing Python.
 
 #### Applied Skills
