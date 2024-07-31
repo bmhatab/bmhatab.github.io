@@ -11,7 +11,7 @@ I am a meticulous and energetic individual with a keen observational sense and a
 This project focuses on streamlining and automating a business analysis catalogue of tools used to evaluate the entirety of a client’s business. The process includes generating comprehensive report presentations that identify gaps in the client's business operations and provide recommendations to address these gaps. Key components of the project involve the design of a survey, database modeling in Power BI, the integration of a Natural Language Processing (NLP) AI to generate business reports, and the use of Microsoft Azure for model deployment.
 
 #### Applied Skills
-- Survey Design, Database Modeling, Business Intelligence, Business Report Writing, Natural Language Processing (NLP), Power BI, Automation, Microsoft Azure, Python Programming, AI and Machine Learning
+- `Survey Design`, `Database Modeling`, Business Intelligence, Business Report Writing, Natural Language Processing (NLP), Power BI, Automation, Microsoft Azure, Python Programming, AI and Machine Learning
 
 ### Automation for Sales and Performance Reporting
 * * * 
