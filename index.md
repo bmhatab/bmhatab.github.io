@@ -49,20 +49,31 @@ This project aims to develop an optimal trading strategy using Double Deep Q-Net
 
 #### Applied Skills
 - Stochastic Differential Equations (SDEs), Data Simulation, Reinforcement Learning (DDQN), Statistical Arbitrage, Heat Map Generation, Reward Distribution Analysis, Python Programming, Machine Learning, TensorFlow and Keras Libraries.
-  
-### Business Analysis Automation
-- Streamlined and automated a business analysis catalogue of tools used to assess the entirety of a client’s business.
-- Generated comprehensive report presentations on gaps in client’s business operations and recommendations to cover those gaps.
 
-### Dynamic Visualization Dashboards
-- Designed and developed dynamic visualization dashboards using Power BI to generate sales and performance reports.
-- Automated file retrieval processes from servers using Python, significantly reducing manual workload.
+### California Housing Prices Prediction
+This project focuses on building a predictive model to estimate housing prices in California. It involves data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and validation. The goal is to create an accurate model that can predict the average house value based on various features.
 
-### Blockchain Explorer Freelance Project
-- Utilized web scraping techniques to extract Ethereum contract addresses from GitHub.
-- Mapped contract addresses to their respective domain or subdomain, submitting data in JSON format.
+#### Applied Skills
+- Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Model Training, Model Evaluation, Model Validation, Machine Learning,Python Programming, Scikit-Learn Library.
 
+### Forecasting Stock Prices and Volatility Using Classical Time-Series Models and Neural Networks
+This project applies various time-series modeling techniques to forecast stock prices and volatility for Google (GOOG) and NVIDIA (NVDA). It involves data preprocessing, model fitting, and comparison between classical time-series models (AR, MA, ARMA, ARMA+GARCH) and LSTM. Additionally, a Vector Autoregression (VAR) model is used to analyze the combined stock data.
 
+#### Applied Skills
+- Time Series Analysis, Classical Time-Series Models (AR, MA, ARMA, GARCH), LSTM Modeling, Vector Autoregression (VAR), Python Programming, Data Visualization.
+
+### Numerical Methods for Finance and Insurance
+This project explores advanced numerical methods and their applications in financial and insurance models. It includes tasks related to probability estimation using simulation techniques, convergence analysis of stochastic processes, and Bayesian estimation for autoregressive models. The project highlights the accuracy and efficiency of these methods in practical financial modeling
+
+#### Applied Skills
+- Numerical Simulation, Stochastic Processes, Convergence Analysis, Bayesian Estimation, Gibbs Sampling, Python Programming, Data Analysis.
+
+### Optimal Weighting in Trend-Following Strategies
+To analyze the optimal weighting between trend-following and non-trend strategies, considering variations in trend-following implementation, non-trend components, and asset classes. The project aims to determine measures of "optimality" and understand how they affect weighting decisions.
+
+#### Applied Skills
+- Trend-Following Strategies, Volatility Targeting, Volatility Harvesting, Portfolio Optimization, Risk Management, Python Programming, Data Analysis.
+- 
 ## Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/maarouf-hatab)
